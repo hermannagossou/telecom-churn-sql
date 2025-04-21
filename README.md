@@ -38,7 +38,7 @@ Projet réalisé dans le cadre de mon portfolio de Data Analyst. L’objectif es
 - Taux de churn global : **26,58 %**
 - Risque maximal identifié chez les clients récents (< 6 mois)
 - Services techniques désactivés = facteur de churn majeur
-- Contrat **mensuel + paiement par chèque électronique** = 🔥 danger
+- Contrat **mensuel + paiement par chèque électronique** = Churn élevé
 
 ---
 
@@ -58,5 +58,5 @@ Projet réalisé dans le cadre de mon portfolio de Data Analyst. L’objectif es
 
 ## 👨‍💻 Auteur
 
-**Hermann Agossou** – [LinkedIn](https://www.linkedin.com/in/hermannagossou/)  
+**Hermann Agossou** – [LinkedIn](https://www.linkedin.com/in/hermann-agossou-data-analyst-powerbi/)  
 📫 [Mon portfolio](https://hermannagossou.carrd.co/)
