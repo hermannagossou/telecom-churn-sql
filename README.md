@@ -44,7 +44,7 @@ Projet réalisé dans le cadre de mon portfolio de Data Analyst. L’objectif es
 
 ## 📊 Aperçu du dashboard Power BI
 
-> _(Insérer ici une capture dans le dossier `docs/`)_
+[Cliquer sur ce lien pour accéder au dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2FkMzNiYjQtMDRlYS00NTRjLWJlNWItOTQyM2I2ZWFlOTc2IiwidCI6IjZiM2JlZTZlLWYxMjEtNDJkNS05ZmYxLTllOTAwMGEyOWIxMSJ9)
 
 ---
 
